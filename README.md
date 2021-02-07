@@ -1,2 +1,2 @@
-# Hello Mundo
- Primeiro Repositório
+# Hello World
+ Primeiro Repositório do Curso
